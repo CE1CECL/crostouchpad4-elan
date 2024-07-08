@@ -357,7 +357,7 @@ ElanCompleteIdleIrp(
 #define DBG_PNP   2
 #define DBG_IOCTL 4
 
-#if 0
+#if 1
 #define ElanPrint(dbglevel, dbgcatagory, fmt, ...) {          \
     if (ElanDebugLevel >= dbglevel &&                         \
         (ElanDebugCatagories && dbgcatagory))                 \
