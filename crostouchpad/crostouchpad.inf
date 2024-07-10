@@ -3,7 +3,7 @@
 ;Copyright (c) CoolStar.  All rights reserved.
 ;
 ;Module Name:
-;    coolstar.inf
+;    crostouchpad.inf
 ;
 ;Abstract:
 ;    INF file for installing the Elan Touchpad Driver
